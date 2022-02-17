@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro - main
+# Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
